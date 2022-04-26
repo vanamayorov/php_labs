@@ -1,0 +1,9 @@
+.crypto_list {
+    display: flex; flex-wrap: wrap; justify-content: space-between; padding: 0;
+}
+.card-img-top {
+    display: block;
+    height: 250px;
+    width: 250px;
+    margin: 0 auto;
+}
